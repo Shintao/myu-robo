@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "myu-robo": "workspace:dbfc8fd2-8441-48f2-a731-386ae6c505c0"
     },
     "files": [
         "README.md",
@@ -14,5 +15,6 @@
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:dbfc8fd2-8441-48f2-a731-386ae6c505c0"
 }
